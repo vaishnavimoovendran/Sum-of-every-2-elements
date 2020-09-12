@@ -4,6 +4,7 @@ EXample:
 INPUT:
 n=5;
 1 2 3 4 5
+
 OUTPUT:
 1 2 3 4 5\n
 3 7 5\n
